@@ -1,0 +1,6 @@
+@import './tailwind.css';
+@import './App.css';
+
+body {
+  font-family: 'Noto Sans KR';
+}
